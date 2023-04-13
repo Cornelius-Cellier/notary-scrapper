@@ -12,7 +12,7 @@ To use this program, you will need to have Python 3.x and the following librarie
 
 You can install these libraries using pip:
 
-```pip install requests```
-```pip install beautifulsoup4```
-```pip install csv```
+```pip install requests
+pip install beautifulsoup4
+pip install csv```
 
